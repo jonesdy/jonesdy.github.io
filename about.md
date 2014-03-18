@@ -11,3 +11,5 @@ I am currently a student at the [University of Wisconsin at Platteville](http://
 My major is Software Engineering with a minor in Math.
 
 I am currently a Junior and expect to graduate in May 2015.
+
+You can view my resume [here](resume.html)
